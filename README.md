@@ -1,7 +1,3 @@
-Esta é uma documentação para o projeto "educational-game", que é um jogo educacional desenvolvido com Angular, Ionic e Phaser.
-
----
-
 # Jogo Educacional (englishGame)
 
 Este projeto é um jogo educacional interativo desenvolvido com Angular e Ionic, incorporando o framework de jogos Phaser para as cenas do jogo. Ele foi projetado para ser executado como um aplicativo web e potencialmente como um aplicativo móvel através do Capacitor.
